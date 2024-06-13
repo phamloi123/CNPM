@@ -1,0 +1,756 @@
+WARNING - 2024-06-13 01:49:32 --> [DEPRECATED] Creation of dynamic property App\Services\LoginService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\LoginService.php(20): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\LoginController.php(13): App\Services\LoginService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\LoginController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:49:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:49:44 --> [DEPRECATED] Creation of dynamic property App\Services\LoginService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\LoginService.php(20): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\LoginController.php(13): App\Services\LoginService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\LoginController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:49:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:50:14 --> [DEPRECATED] Creation of dynamic property App\Services\LoginService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\LoginService.php(20): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\LoginController.php(13): App\Services\LoginService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\LoginController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:50:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:50:25 --> [DEPRECATED] Creation of dynamic property App\Services\LoginService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\LoginService.php(20): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\LoginController.php(13): App\Services\LoginService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\LoginController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:50:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:50:25 --> [DEPRECATED] Creation of dynamic property App\Services\LoginService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\LoginService.php(20): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\LoginController.php(13): App\Services\LoginService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\LoginController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:50:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 01:50:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:50:25 --> [DEPRECATED] Creation of dynamic property App\Services\scheduleService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ScheduleService.php(18): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\Home.php(10): App\Services\scheduleService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:50:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 01:50:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:50:28 --> [DEPRECATED] Creation of dynamic property App\Services\scheduleService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ScheduleService.php(18): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\Home.php(10): App\Services\scheduleService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:50:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:50:31 --> [DEPRECATED] Creation of dynamic property App\Services\StudentService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\StudentService.php(16): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\SinhvienController.php(16): App\Services\StudentService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\SinhvienController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+WARNING - 2024-06-13 01:50:31 --> [DEPRECATED] Creation of dynamic property App\Services\ClassServices::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ClassServices.php(22): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\SinhvienController.php(17): App\Services\ClassServices->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\SinhvienController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:50:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 01:50:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:50:39 --> [DEPRECATED] Creation of dynamic property App\Services\scheduleService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ScheduleService.php(18): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\Home.php(10): App\Services\scheduleService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:50:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 01:50:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:50:41 --> [DEPRECATED] Creation of dynamic property App\Services\scheduleService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ScheduleService.php(18): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\Home.php(10): App\Services\scheduleService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:50:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 01:50:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 01:50:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:50:42 --> [DEPRECATED] Creation of dynamic property App\Services\scheduleService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ScheduleService.php(18): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\Home.php(10): App\Services\scheduleService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:50:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 01:50:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:50:43 --> [DEPRECATED] Creation of dynamic property App\Services\scheduleService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ScheduleService.php(18): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\Home.php(10): App\Services\scheduleService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:50:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:50:43 --> [DEPRECATED] Creation of dynamic property App\Services\scheduleService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ScheduleService.php(18): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\Home.php(10): App\Services\scheduleService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:50:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 01:50:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:50:51 --> [DEPRECATED] Creation of dynamic property App\Services\scheduleService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ScheduleService.php(18): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\Home.php(10): App\Services\scheduleService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:50:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 01:50:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 01:50:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:50:52 --> [DEPRECATED] Creation of dynamic property App\Services\scheduleService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ScheduleService.php(18): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\Home.php(10): App\Services\scheduleService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:50:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:50:52 --> [DEPRECATED] Creation of dynamic property App\Services\scheduleService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ScheduleService.php(18): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\Home.php(10): App\Services\scheduleService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:51:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 01:51:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:51:11 --> [DEPRECATED] Creation of dynamic property App\Services\scheduleService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ScheduleService.php(18): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\Home.php(10): App\Services\scheduleService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:51:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 01:51:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 01:51:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:51:45 --> [DEPRECATED] Creation of dynamic property App\Services\scheduleService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ScheduleService.php(18): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\Home.php(10): App\Services\scheduleService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:51:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:51:46 --> [DEPRECATED] Creation of dynamic property App\Services\scheduleService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ScheduleService.php(18): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\Home.php(10): App\Services\scheduleService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:51:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 01:51:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 01:51:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:51:46 --> [DEPRECATED] Creation of dynamic property App\Services\scheduleService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ScheduleService.php(18): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\Home.php(10): App\Services\scheduleService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:51:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:51:47 --> [DEPRECATED] Creation of dynamic property App\Services\scheduleService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ScheduleService.php(18): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\Home.php(10): App\Services\scheduleService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+WARNING - 2024-06-13 01:51:50 --> [DEPRECATED] Creation of dynamic property App\Services\LoginService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\LoginService.php(20): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\LoginController.php(13): App\Services\LoginService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\LoginController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:51:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 01:51:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:51:51 --> [DEPRECATED] Creation of dynamic property App\Services\scheduleService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ScheduleService.php(18): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\Home.php(10): App\Services\scheduleService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+WARNING - 2024-06-13 01:51:54 --> [DEPRECATED] Creation of dynamic property App\Services\LoginService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\LoginService.php(20): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\LoginController.php(13): App\Services\LoginService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\LoginController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:51:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:51:54 --> [DEPRECATED] Creation of dynamic property App\Services\LoginService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\LoginService.php(20): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\LoginController.php(13): App\Services\LoginService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\LoginController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:51:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:51:59 --> [DEPRECATED] Creation of dynamic property App\Services\LoginService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\LoginService.php(20): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\LoginController.php(13): App\Services\LoginService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\LoginController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:51:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:51:59 --> [DEPRECATED] Creation of dynamic property App\Services\LoginService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\LoginService.php(20): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\LoginController.php(13): App\Services\LoginService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\LoginController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:51:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 01:51:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:51:59 --> [DEPRECATED] Creation of dynamic property App\Services\scheduleService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ScheduleService.php(18): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\Home.php(10): App\Services\scheduleService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:52:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:52:02 --> [DEPRECATED] Creation of dynamic property App\Services\StudentService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\StudentService.php(16): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\SinhvienController.php(16): App\Services\StudentService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\SinhvienController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+WARNING - 2024-06-13 01:52:02 --> [DEPRECATED] Creation of dynamic property App\Services\ClassServices::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ClassServices.php(22): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\SinhvienController.php(17): App\Services\ClassServices->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\SinhvienController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:52:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-13 01:52:04 --> Error: Class "Config\App\Filter\AdminFilter" not found
+[Method: POST, Route: admin/delete_student]
+in SYSTEMPATH\Filters\Filters.php on line 197.
+ 1 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\Filters->runBefore([...])
+ 2 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('admin/delete_student', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:52:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-13 01:52:08 --> Error: Class "Config\App\Filter\AdminFilter" not found
+[Method: POST, Route: admin/delete_student]
+in SYSTEMPATH\Filters\Filters.php on line 197.
+ 1 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\Filters->runBefore([...])
+ 2 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('admin/delete_student', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:52:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-13 01:52:29 --> Error: Class "Config\App\Filter\AdminFilter" not found
+[Method: POST, Route: admin/delete_student]
+in SYSTEMPATH\Filters\Filters.php on line 197.
+ 1 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\Filters->runBefore([...])
+ 2 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('admin/delete_student', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+WARNING - 2024-06-13 01:53:10 --> [DEPRECATED] Creation of dynamic property App\Services\LoginService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\LoginService.php(20): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\LoginController.php(13): App\Services\LoginService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\LoginController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:53:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 01:53:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:53:11 --> [DEPRECATED] Creation of dynamic property App\Services\scheduleService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ScheduleService.php(18): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\Home.php(10): App\Services\scheduleService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:53:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:53:13 --> [DEPRECATED] Creation of dynamic property App\Services\SubjectService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\SubjectService.php(16): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\DiemDanhController.php(17): App\Services\SubjectService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DiemDanhController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+WARNING - 2024-06-13 01:53:13 --> [DEPRECATED] Creation of dynamic property App\Services\StudentService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\StudentService.php(16): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\DiemDanhController.php(18): App\Services\StudentService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DiemDanhController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+WARNING - 2024-06-13 01:53:13 --> [DEPRECATED] Creation of dynamic property App\Services\scheduleService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ScheduleService.php(18): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\DiemDanhController.php(19): App\Services\scheduleService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DiemDanhController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:53:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:53:29 --> [DEPRECATED] Creation of dynamic property App\Services\SubjectService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\SubjectService.php(16): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\DiemDanhController.php(17): App\Services\SubjectService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DiemDanhController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+WARNING - 2024-06-13 01:53:29 --> [DEPRECATED] Creation of dynamic property App\Services\StudentService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\StudentService.php(16): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\DiemDanhController.php(18): App\Services\StudentService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DiemDanhController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+WARNING - 2024-06-13 01:53:29 --> [DEPRECATED] Creation of dynamic property App\Services\scheduleService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ScheduleService.php(18): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\DiemDanhController.php(19): App\Services\scheduleService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\DiemDanhController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+WARNING - 2024-06-13 01:53:30 --> [DEPRECATED] Creation of dynamic property App\Services\LoginService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\LoginService.php(20): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\LoginController.php(13): App\Services\LoginService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\LoginController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:53:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 01:53:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:53:30 --> [DEPRECATED] Creation of dynamic property App\Services\scheduleService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ScheduleService.php(18): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\Home.php(10): App\Services\scheduleService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:53:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:53:58 --> [DEPRECATED] Creation of dynamic property App\Services\StudentService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\StudentService.php(16): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\SinhvienController.php(16): App\Services\StudentService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\SinhvienController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+WARNING - 2024-06-13 01:53:58 --> [DEPRECATED] Creation of dynamic property App\Services\ClassServices::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ClassServices.php(22): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\SinhvienController.php(17): App\Services\ClassServices->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\SinhvienController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:54:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:54:05 --> [DEPRECATED] Creation of dynamic property App\Services\StudentService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\StudentService.php(16): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\SinhvienController.php(16): App\Services\StudentService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\SinhvienController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+WARNING - 2024-06-13 01:54:05 --> [DEPRECATED] Creation of dynamic property App\Services\ClassServices::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ClassServices.php(22): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\SinhvienController.php(17): App\Services\ClassServices->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\SinhvienController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:54:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:54:06 --> [DEPRECATED] Creation of dynamic property App\Services\StudentService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\StudentService.php(16): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\SinhvienController.php(16): App\Services\StudentService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\SinhvienController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+WARNING - 2024-06-13 01:54:06 --> [DEPRECATED] Creation of dynamic property App\Services\ClassServices::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ClassServices.php(22): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\SinhvienController.php(17): App\Services\ClassServices->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\SinhvienController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:54:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:54:11 --> [DEPRECATED] Creation of dynamic property App\Services\StudentService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\StudentService.php(16): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\SinhvienController.php(16): App\Services\StudentService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\SinhvienController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+WARNING - 2024-06-13 01:54:11 --> [DEPRECATED] Creation of dynamic property App\Services\ClassServices::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ClassServices.php(22): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\SinhvienController.php(17): App\Services\ClassServices->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\SinhvienController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:54:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:54:18 --> [DEPRECATED] Creation of dynamic property App\Services\StudentService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\StudentService.php(16): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\SinhvienController.php(16): App\Services\StudentService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\SinhvienController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+WARNING - 2024-06-13 01:54:18 --> [DEPRECATED] Creation of dynamic property App\Services\ClassServices::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ClassServices.php(22): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\SinhvienController.php(17): App\Services\ClassServices->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\SinhvienController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+WARNING - 2024-06-13 01:54:29 --> [DEPRECATED] Creation of dynamic property App\Services\LoginService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\LoginService.php(20): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\LoginController.php(13): App\Services\LoginService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\LoginController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:54:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 01:54:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:54:29 --> [DEPRECATED] Creation of dynamic property App\Services\scheduleService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ScheduleService.php(18): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\Home.php(10): App\Services\scheduleService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+WARNING - 2024-06-13 01:54:32 --> [DEPRECATED] Creation of dynamic property App\Services\LoginService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\LoginService.php(20): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\LoginController.php(13): App\Services\LoginService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\LoginController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:54:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:54:32 --> [DEPRECATED] Creation of dynamic property App\Services\LoginService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\LoginService.php(20): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\LoginController.php(13): App\Services\LoginService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\LoginController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:54:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:54:37 --> [DEPRECATED] Creation of dynamic property App\Services\LoginService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\LoginService.php(20): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\LoginController.php(13): App\Services\LoginService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\LoginController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:54:38 --> [DEPRECATED] Creation of dynamic property App\Services\LoginService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\LoginService.php(20): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\LoginController.php(13): App\Services\LoginService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\LoginController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:54:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-13 01:54:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:54:38 --> [DEPRECATED] Creation of dynamic property App\Services\scheduleService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ScheduleService.php(18): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\Home.php(10): App\Services\scheduleService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:54:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:54:43 --> [DEPRECATED] Creation of dynamic property App\Services\StudentService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\StudentService.php(16): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\SinhvienController.php(16): App\Services\StudentService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\SinhvienController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+WARNING - 2024-06-13 01:54:43 --> [DEPRECATED] Creation of dynamic property App\Services\ClassServices::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ClassServices.php(22): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\SinhvienController.php(17): App\Services\ClassServices->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\SinhvienController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:54:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-13 01:54:52 --> Error: Class "Config\App\Filter\AdminFilter" not found
+[Method: POST, Route: admin/delete_student]
+in SYSTEMPATH\Filters\Filters.php on line 197.
+ 1 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\Filters->runBefore([...])
+ 2 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('admin/delete_student', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:56:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-06-13 01:56:26 --> [DEPRECATED] Creation of dynamic property App\Services\StudentService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\StudentService.php(16): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\SinhvienController.php(16): App\Services\StudentService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\SinhvienController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+WARNING - 2024-06-13 01:56:26 --> [DEPRECATED] Creation of dynamic property App\Services\ClassServices::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ClassServices.php(22): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\SinhvienController.php(17): App\Services\ClassServices->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\SinhvienController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+INFO - 2024-06-13 01:56:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2024-06-13 01:56:28 --> User session: Array
+(
+    [user_id] => admin01
+    [type] => admin
+    [name] => admin
+    [loai] => 2
+)
+
+WARNING - 2024-06-13 01:56:28 --> [DEPRECATED] Creation of dynamic property App\Services\StudentService::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\StudentService.php(16): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\SinhvienController.php(16): App\Services\StudentService->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\SinhvienController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
+WARNING - 2024-06-13 01:56:28 --> [DEPRECATED] Creation of dynamic property App\Services\ClassServices::$validation is deprecated in APPPATH\services\BaseService.php on line 8.
+ 1 APPPATH\services\ClassServices.php(22): App\Services\BaseService->__construct()
+ 2 APPPATH\Controllers\SinhvienController.php(17): App\Services\ClassServices->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\SinhvienController->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\manager-school\\public\\index.php')
