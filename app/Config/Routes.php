@@ -9,10 +9,13 @@ $routes->get('/', 'LoginController::index');
 $routes->get('login', 'LoginController::index');
 $routes->post('login', 'LoginController::login');
 
+$routes->get('home', 'Home::index');
+$routes->post('home/submit-form', 'Home::submitForm');
+
 $routes->get('logout', 'LoginController::logout');
 
 $routes->group('admin', ['filter' => 'UserFilter'], function ($routes) {
-    $routes->get('home', 'Home::index');
+    //$routes->get('home', 'Home::index');
     $routes->get('list-sinhvien', 'SinhvienController::index');
     $routes->get('list-monhoc', 'MonHocController::index');
     $routes->get('list-giaovien', 'GiaovienController::index');
@@ -28,6 +31,7 @@ $routes->group('admin', ['filter' => 'UserFilter'], function ($routes) {
             $routes->post('teachers/update', 'GiaovienController::update');
             $routes->post('teachers/addTeacher', 'GiaovienController::addTeacher');
             $routes->post('deleteTeacher', 'GiaovienController::deleteTeachers');
+            //$routes->post('home/submit-form', 'Home::submitForm');
         });
     });
 });

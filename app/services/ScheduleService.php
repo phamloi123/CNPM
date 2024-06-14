@@ -5,6 +5,7 @@ namespace App\Services;
 use App\Common\Result;
 use Exception;
 use App\Models\CreateSchedule;
+use CodeIgniter\HTTP\ResponseInterface;
 
 class scheduleService extends BaseService
 {
@@ -36,5 +37,24 @@ class scheduleService extends BaseService
         ->join('student', 'student_class.student_id = student.id')
         ->get()
         ->getResultArray();
+    }
+    public function addSchedule($data){
+        try {
+            if ($this->schedule->insert($data)) {
+                $response = [
+                    'status' => ResponseInterface::HTTP_OK,
+                    'message' => 'Teacher added successfully',
+                    //'id' => $this->teachers->insertID(),
+                ];
+            } else {
+                throw new Exception('Failed to add teacher');
+            }
+        } catch (Exception $e) {
+            $response = [
+                'status' => 'ResponseInterface::HTTP_BAD_REQUEST',
+                'message' => $e->getMessage(),
+            ];
+        }
+        return $response;
     }
 }
