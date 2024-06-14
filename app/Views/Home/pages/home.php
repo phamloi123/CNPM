@@ -87,7 +87,7 @@
         <button type="submit">Submit</button>
     </form>
 
-    <div class="container mt-5">
+    <div class="container mt-5 ">
         <h2 class="text-center mb-4">Lịch Học</h2>
         <div class="row row-schedule-list">
             <?php foreach ($schedule as $sc): ?>
@@ -237,8 +237,8 @@
                 method: $(this).attr('method'),
                 data: $(this).serialize(),
                 success: function (response) {
+                    alert('Thêm lịch học thành công!');
                     loadScheduleList();
-                    
                 },
                 error: function (xhr, status, error) {
                     // Xử lý lỗi
@@ -250,19 +250,18 @@
     });
     function loadScheduleList() {
         $.ajax({
-            url: '<?= base_url('home') ?>', // Thay đổi đường dẫn và phương thức tương ứng
+            url: '<?= base_url('home/t') ?>', // Thay đổi đường dẫn và phương thức tương ứng
             method: 'GET',
             success: function(response) {
-                // Cập nhật lại phần tử hiển thị danh sách lịch học
-                $('.row-schedule-list').html(response);
+                // Thêm nội dung mới vào cuối danh sách
+                $('.schedule-list').append(response);
             },
             error: function(xhr, status, error) {
-                // Xử lý lỗi
-                console.log('Error loading schedule list:', error);
+                // Xử lý khi load danh sách lịch học bị lỗi
+                console.error('Đã xảy ra lỗi: ' + error);
             }
         });
     }
-
     // Gọi hàm loadScheduleList khi trang được tải lần đầu
 </script>
 
