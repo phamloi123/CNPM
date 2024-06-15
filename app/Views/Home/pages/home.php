@@ -40,7 +40,7 @@
     <div class="container-fluid">
 
     <button id="addLichhoc">Thêm lịch học</button>
-    <form id="formAdd" action="<?= base_url('home/submit-form') ?>" method="post">
+    <form id="formAdd" action="admin/home/submit-form" method="post">
         <span class="close">&times;</span>
         <div class="form-group">
             <label for="class">Lớp:</label>
