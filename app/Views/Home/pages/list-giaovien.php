@@ -110,7 +110,6 @@
                             <th>Mã Giáo Viên </th>
                             <th>Số Điện Thoại</th>
                             <th>Trình Độ</th>
-                            <th>Hình Ảnh</th>
                             <th>Xóa</th>
                     </thead>
                     <tfoot>
@@ -120,7 +119,6 @@
                             <th>Mã Giáo Viên </th>
                             <th>Số Điện Thoại</th>
                             <th>Trình Độ</th>
-                            <th>Hình Ảnh</th>
                             <th>Xóa</th>
 
                         </tr>
@@ -142,9 +140,6 @@
                                     </td>
                                     <td class="editable" data-id="<?= $teacher['id'] ?>" data-field="trinhdo">
                                         <?= $teacher['trinhdo'] ?>
-                                    </td>
-                                    <td class="editable" data-id="<?= $teacher['id'] ?>" data-field="hinhanh">
-                                        <?= $teacher['hinhanh'] ?>
                                     </td>
                                     <td>
                                         <button class="delete-btn" data-id="<?= $teacher['id'] ?>">Xóa</button>

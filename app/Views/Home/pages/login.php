@@ -51,23 +51,10 @@
                                             <input type="password" class="form-control form-control-user"
                                                 id="exampleInputPassword" placeholder="Mật Khẩu" name="password">
                                         </div>
-                                        <!-- <div class="form-group">
-                                            <div class="custom-control custom-checkbox small">
-                                                <input type="checkbox" class="custom-control-input" id="customCheck">
-                                                <label class="custom-control-label" for="customCheck">nhớ mật
-                                                    khẩu</label>
-                                            </div>
-                                        </div> -->
                                         <input type="submit" class="btn btn-primary btn-user btn-block" value="Login">
 
                                     </form>
                                     <hr>
-                                    <!-- <div class="text-center">
-                                        <a class="small" href="forgot-password.html">Forgot Password?</a>
-                                    </div> -->
-                                    <!-- <div class="text-center">
-                                        <a class="small" href="register.html">Đăng ký tài khoản!</a>
-                                    </div> -->
                                 </div>
                             </div>
                         </div>
