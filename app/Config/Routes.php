@@ -9,6 +9,8 @@ $routes->get('/', 'LoginController::index');
 $routes->get('login', 'LoginController::index');
 $routes->post('login', 'LoginController::login');
 
+//$routes->get('home', 'Home::index');
+
 $routes->get('logout', 'LoginController::logout');
 
 $routes->group('admin', ['filter' => 'UserFilter'], function ($routes) {
@@ -22,9 +24,9 @@ $routes->group('admin', ['filter' => 'UserFilter'], function ($routes) {
         $routes->post('diemdanh/update', 'DiemDanhController::diemdanh');
         $routes->post('student/update', 'SinhvienController::updateStudent');
         $routes->group('', ['filter' => 'AdminFilter'], function ($routes) {
+            $routes->post('home/submit-form', 'Home::submitForm');
             $routes->post('student/addStudent', 'SinhvienController::addStudent');
             $routes->post('delete_student', 'SinhvienController::deleteStudent');
-
             $routes->post('teachers/update', 'GiaovienController::update');
             $routes->post('teachers/addTeacher', 'GiaovienController::addTeacher');
             $routes->post('deleteTeacher', 'GiaovienController::deleteTeachers');

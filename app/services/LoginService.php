@@ -61,11 +61,11 @@ class LoginService extends BaseService
         $session = session();
         unset($user['password']);
         $check = substr($param['user_id'],0,2);
-        if ($check === 'sv') {
+        if (strcasecmp($check, 'sv') === 0) {
             $student= $this->student->select('name')->where('masinhvien',$param['user_id'])->get()->getRowArray();
             $user['name'] = $student['name'];
             $user['loai'] = 0;
-        } elseif($check === 'gv') {
+        } elseif(strcasecmp($check, 'sv') === 0) {
             $teacher= $this->teacher->select('name')->where('magiaovien',$param['user_id'])->get()->getRowArray();
             $user['name'] = $teacher['name'];
             $user['loai'] = 1;
