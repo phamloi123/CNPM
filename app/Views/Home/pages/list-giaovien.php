@@ -67,7 +67,7 @@
 <div class="container-fluid">
 
     <!-- Page Heading -->
-    <h1 class="h3 mb-2 text-gray-800">Danh Sách Sinh Viên</h1> 
+    <h1 class="h3 mb-2 text-gray-800">Danh Sách Giáo Viên</h1> 
     <!-- DataTales Example -->
     <button id="addRowBtn">Thêm hàng</button>
     <div id="myModal" class="modal">
